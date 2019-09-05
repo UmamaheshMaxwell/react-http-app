@@ -1,4 +1,4 @@
-# React-HTTP-App
+# React-Http-App
 
 Making HTTP GET and POST request using axios in React
 
